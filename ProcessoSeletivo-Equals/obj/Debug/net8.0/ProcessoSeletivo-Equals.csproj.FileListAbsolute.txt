@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\bin\Debug\net8.0\ProcessoSeletivo-Equals.exe
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\bin\Debug\net8.0\ProcessoSeletivo-Equals.deps.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\bin\Debug\net8.0\ProcessoSeletivo-Equals.runtimeconfig.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\bin\Debug\net8.0\ProcessoSeletivo-Equals.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\bin\Debug\net8.0\ProcessoSeletivo-Equals.pdb
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\refint\ProcessoSeletivo-Equals.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.pdb
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ref\ProcessoSeletivo-Equals.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\ProcessoSeletivo-Equals\obj\Debug\net8.0\ProcessoSeletivo-Equals.sourcelink.json
