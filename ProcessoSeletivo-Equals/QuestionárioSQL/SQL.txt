@@ -28,8 +28,9 @@ FROM compras;
 
 -- 1.3	- Qual é o usuário que fez o maior número de compras? --
 
-SELECT id_usuario, COUNT(*) AS maiorNumeroDeCompras
-FROM compras
+SELECT u.nome AS nomeUsuario, COUNT(*) AS maiorNumeroDeCompras
+FROM compras com
+JOIN usuarios u ON com.id_usuario = u.id
 GROUP BY id_usuario
 ORDER BY maiorNumeroDeCompras DESC
 LIMIT 1;

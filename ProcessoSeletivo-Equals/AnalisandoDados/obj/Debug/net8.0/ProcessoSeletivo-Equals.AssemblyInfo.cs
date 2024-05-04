@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProcessoSeletivo-Equals")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f92ee90259908299851259d745fd92d0f6f3604")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecdebc7eb0d0e344f5b38423ec79ca67861491f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProcessoSeletivo-Equals")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProcessoSeletivo-Equals")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
