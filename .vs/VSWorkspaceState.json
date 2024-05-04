@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\ProcessoSeletivo-Equals",
+    "\\ProcessoSeletivo-Equals\\AnalisandoDados"
   ],
-  "SelectedNode": "\\ProcessoSeletivo-Equals",
+  "SelectedNode": "\\ProcessoSeletivo-Equals\\AnalisandoDados\\Analise.cs",
   "PreviewInSolutionExplorer": false
 }

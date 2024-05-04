@@ -1,0 +1,59 @@
+-- Visualização única --
+SELECT * FROM usuarios;
+SELECT * FROM produtos;
+SELECT * FROM compras;
+
+-- Inserção de Valores -- 
+INSERT INTO usuarios VALUES (default, 'Ana', 35, 'ana@email.com');
+INSERT INTO produtos VALUES (default, 'Fone de Ouvido', 100);
+INSERT INTO compras VALUES (default, 1, 3, 1, '2024-04-22');
+
+-- Consulta das compras --
+SELECT u.id, u.nome, p.nome, p.preco, com.quantidade, com.data 
+FROM usuarios u
+JOIN compras com ON u.id = com.id_usuario
+JOIN produtos p ON com.id_produto = p.id;
+
+
+-- 1.1	- Qual é o nome e o preço do produto mais caro? --
+
+SELECT nome, preco
+FROM produtos
+WHERE preco = (SELECT MAX(preco) FROM produtos);
+
+-- 1.2	- Quantos produtos diferentes foram comprados até agora? --
+
+SELECT COUNT(DISTINCT id_produto) AS totalDeCompras
+FROM compras;
+
+-- 1.3	- Qual é o usuário que fez o maior número de compras? --
+
+SELECT id_usuario, COUNT(*) AS maiorNumeroDeCompras
+FROM compras
+GROUP BY id_usuario
+ORDER BY maiorNumeroDeCompras DESC
+LIMIT 1;
+
+
+-- 1.4	- Quais são os produtos comprados por Maria? --
+
+SELECT u.nome, p.nome
+FROM compras com
+JOIN produtos p ON com.id_produto = p.id
+JOIN usuarios u ON com.id_usuario = u.id
+WHERE u.id = 2;
+
+
+
+-- 1.5	- Qual foi o total gasto em compras na última semana? --
+
+SELECT SUM(p.preco * c.quantidade) AS total_gasto
+FROM compras c
+JOIN produtos p ON c.id_produto = p.id
+WHERE DATEDIFF(NOW(), c.data) <= 7;
+
+SELECT SUM(p.preco * c.quantidade) AS total_gasto
+FROM compras c
+JOIN produtos p ON c.id_produto = p.id
+WHERE '2024-04-22' = c.data <= 7;
+
