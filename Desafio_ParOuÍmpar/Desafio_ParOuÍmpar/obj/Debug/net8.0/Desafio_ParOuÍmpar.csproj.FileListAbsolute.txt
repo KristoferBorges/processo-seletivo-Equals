@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\bin\Debug\net8.0\Desafio_ParOuÍmpar.exe
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\bin\Debug\net8.0\Desafio_ParOuÍmpar.deps.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\bin\Debug\net8.0\Desafio_ParOuÍmpar.runtimeconfig.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\bin\Debug\net8.0\Desafio_ParOuÍmpar.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\bin\Debug\net8.0\Desafio_ParOuÍmpar.pdb
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.sourcelink.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\refint\Desafio_ParOuÍmpar.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.pdb
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\Desafio_ParOuÍmpar.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_ParOuÍmpar\Desafio_ParOuÍmpar\obj\Debug\net8.0\ref\Desafio_ParOuÍmpar.dll

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ProcessoSeletivo-Equals",
-    "\\ProcessoSeletivo-Equals\\AnalisandoDados"
+    "\\Desafio_An\u00E1liseDeDados",
+    "\\Desafio_Jogo_Adivinha\u00E7\u00E3o\\Desafio_Jogo_Adivinha\u00E7\u00E3o",
+    "\\Desafio_ParOu\u00CDmpar\\Desafio_ParOu\u00CDmpar"
   ],
-  "SelectedNode": "\\ProcessoSeletivo-Equals\\AnalisandoDados\\Analise.cs",
+  "SelectedNode": "\\Desafio_An\u00E1liseDeDados\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

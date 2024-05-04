@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\bin\Debug\net8.0\Desafio_Jogo_Adivinhação.exe
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\bin\Debug\net8.0\Desafio_Jogo_Adivinhação.deps.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\bin\Debug\net8.0\Desafio_Jogo_Adivinhação.runtimeconfig.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\bin\Debug\net8.0\Desafio_Jogo_Adivinhação.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\bin\Debug\net8.0\Desafio_Jogo_Adivinhação.pdb
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.sourcelink.json
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\refint\Desafio_Jogo_Adivinhação.dll
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.pdb
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\Desafio_Jogo_Adivinhação.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\ProcessoSeletivo-Equals\Desafio_Jogo_Adivinhação\Desafio_Jogo_Adivinhação\obj\Debug\net8.0\ref\Desafio_Jogo_Adivinhação.dll
