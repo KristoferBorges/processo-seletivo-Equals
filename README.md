@@ -21,7 +21,7 @@ Criar um jogo de Par ou Ímpar.
 
 
 ### Observações
-- Os Desafio foi documentado dentro do GitHUB;
+- Os Desafio foram documentado dentro do GitHUB;
 - Os Desafios foram feitos usando um ambiente virtual para instalação de pacotes;
 - Os Desafios possuem pequenos tratamentos de erro;
 - Os Desafios foram feitos em C#;
