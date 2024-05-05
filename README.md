@@ -1,5 +1,5 @@
 
-# Processo selecito - Equals
+# Processo seletivo - Equals
 
 Agradeço a oportunidade de participar do processo seletivo. Segue abaixo a resolução do desafio proposto.
 
@@ -20,7 +20,7 @@ Criar um jogo para adivinhar um número entre 1 e 100.
 Criar um jogo de Par ou Ímpar.
 
 
-###Observações
+### Observações
 - Os Desafio foi documentado dentro do GitHUB;
 - Os Desafios foram feitos usando um ambiente virtual para instalação de pacotes;
 - Os Desafios possuem pequenos tratamentos de erro;
