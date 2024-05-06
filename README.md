@@ -25,3 +25,4 @@ Criar um jogo de Par ou Ímpar.
 - Os Desafios foram feitos usando um ambiente virtual para instalação de pacotes;
 - Os Desafios possuem pequenos tratamentos de erro;
 - Os Desafios foram feitos em C#;
+- O Desafio de SQL foi feito utilizando o MySQL em ambiente local;
